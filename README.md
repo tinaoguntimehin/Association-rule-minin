@@ -1,1 +1,1 @@
-# Association-rule-minin
+# Association-rule-mining
